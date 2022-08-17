@@ -1,1 +1,2 @@
-# Jumping-Runner
+# Jumping Runner
+![](game.png)
